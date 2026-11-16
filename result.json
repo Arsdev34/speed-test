@@ -1,0 +1,25 @@
+{
+    "url": "https://httpbin.org/image/jpeg",
+    "num_requests": 3,
+    "avg_time_sec": 0.548,
+    "total_data_kb": 104.26,
+    "avg_speed_kbps": 190.43,
+    "avg_speed_mbps": 1.56,
+    "details": [
+        {
+            "request": 1,
+            "time_sec": 0.589,
+            "size_kb": 34.75
+        },
+        {
+            "request": 2,
+            "time_sec": 0.515,
+            "size_kb": 34.75
+        },
+        {
+            "request": 3,
+            "time_sec": 0.539,
+            "size_kb": 34.75
+        }
+    ]
+}
